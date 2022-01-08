@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: January 8 2016 
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Created Docker Development Environment for my side project.
 
